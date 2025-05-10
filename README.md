@@ -29,3 +29,21 @@ A data analysis project exploring COVID-19 case trends, death rates, and geograp
 ## 🚀 How to Run This Project
 
 1. Clone this repository:
+2. Open `covid19_analysis.ipynb` in Jupyter Notebook.
+3. Run all cells from top to bottom.
+
+---
+
+## 📌 Key Insights
+
+- 🇺🇸 The USA had the highest confirmed cases as of 2024-05-01.
+- 🇮🇳 India showed steady case growth but with a lower death rate.
+- 🇰🇪 Kenya maintained lower case counts but experienced spikes in July 2021.
+
+---
+
+## ✨ Reflections
+
+Learned hands-on data cleaning, visualization, and storytelling using Python tools. First experience creating a choropleth map and publishing a project on GitHub.
+
+
